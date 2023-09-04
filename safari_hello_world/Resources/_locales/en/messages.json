@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "safari_hello_world",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "This is safari_hello_world. You should tell us what your extension does here.",
+        "description": "Description of what the extension does."
+    }
+}
